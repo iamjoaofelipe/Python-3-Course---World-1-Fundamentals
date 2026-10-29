@@ -1,4 +1,4 @@
-# This program reads two student grades and calculates their average.
+# This program gets two grades and finds the average.
 
 grade1 = float(input("Enter the first grade:"))
 grade2 = float(input("Enter the second grade:"))

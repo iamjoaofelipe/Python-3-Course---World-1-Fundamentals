@@ -1,4 +1,4 @@
-# This program displays "Hello, World!" on the screen.
+# This programa show "Hello, World!" in the screen.
 
-print("hello world")
+print("Hello, World!") 
 

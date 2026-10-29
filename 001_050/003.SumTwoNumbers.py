@@ -1,7 +1,7 @@
-# This program asks the user to enter two numbers and displays their sum.
+# This program gets two numbers and adds them.
 
-num1 = input("Enter first number:")
-num2 = input("Enter second number:")
-sum = int(num1) + int(num2)
+number1 = input("Enter the first number: ")
+number2 = input("Enter the second number: ")
+total = int(number1) + int(number2)
 
-print("The sum of {0} and {1} is {2}".format(num1, num2, sum))
+print("The answer is:", total)

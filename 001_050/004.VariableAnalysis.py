@@ -1,13 +1,14 @@
-# This program analyzes a variable and displays its data type and properties.
+# This program checks a value and show its type and properties.
 
-a = input(" Enter a value: ")
+value = input(" Enter a value: ")
 
-print( " Value type:" , type(a))
-print(" Only spaces? ", a.isspace())
-print(" is a number? ", a.isnumeric())
-print(" is uppercase? ", a.isupper())
-print(" is lowercase? ", a.islower())
-print(" is titlecase? ", a.istitle())
+print( " Value type:" , type(value))
+print(" Only spaces? ", value.isspace())
+print(" is a number? ", value.isnumeric())
+print(" is uppercase? ", value.isupper())
+print(" is lowercase? ", value.islower())
+print(" is titlecase? ", value.istitle())
+
 
 
 
